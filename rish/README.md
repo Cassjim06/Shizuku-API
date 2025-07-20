@@ -1,4 +1,4 @@
-# RISH
+adb shell sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.sh# RISH
 
 <del>Rish is an Interactive SHell for android</del>
 
